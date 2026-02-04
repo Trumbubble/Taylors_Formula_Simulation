@@ -1,1 +1,1 @@
-log(x)
+log(x) + sin(x)
